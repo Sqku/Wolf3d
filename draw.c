@@ -38,7 +38,7 @@ void	color(t_all *all, t_stuff *stuff, int x)
 		ft_put_pixel(&all->img, x, stuff->y);
 	all->img.color = 0x54391F;
 	while (++stuff->y < WIN_HEIGHT)
-		ft_put_pixel(&all->img, x, stuff->y);
+		ft_put_pixel(&all->img, x, stuff->y - 1);
 }
 
 void	draw(t_all *all, int x)
