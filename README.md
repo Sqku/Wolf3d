@@ -1,7 +1,7 @@
 # Wolf3d
 42 school project - Graphic
 
-A 3d maze explorer, with a random maze generator.
+A 3d maze explorer, with a random map generator.
 
 ![wolf3d_1](https://cloud.githubusercontent.com/assets/11234746/26594201/0a8c9c46-4567-11e7-9b03-876cec8c8a52.png)
 
